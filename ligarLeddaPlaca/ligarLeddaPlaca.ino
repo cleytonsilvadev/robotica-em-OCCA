@@ -16,7 +16,7 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // ligar o led
   
   contador = contador+1;
-  if(contador>=6)
+  if(contador>6)
   contador=0;
   Serial.println(contador);
   Serial.println("vezes que o led piscou" );
