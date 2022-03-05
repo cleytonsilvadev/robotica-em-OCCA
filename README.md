@@ -1,2 +1,2 @@
-# robotica-em-OCCA
-aulas de robótica com IDE arduino utilizando c++
+# Robotica-em-OCCA
+Aulas de robótica com IDE arduino utilizando c++
